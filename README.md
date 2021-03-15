@@ -1,6 +1,6 @@
 # flutter_list
 
-A new Flutter project.
+A new Flutter project that shows how to build an app with listview.
 
 ## Getting Started
 
